@@ -1,7 +1,7 @@
 import {Controller} from "@hotwired/stimulus"
 import React from "react";
 
-import App from "../App";
+import App from "../component/App";
 import {createRoot} from "react-dom/client";
 
 export default class extends Controller {
